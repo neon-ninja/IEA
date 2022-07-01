@@ -1,10 +1,10 @@
 Individual Employment
 Agreement
 Bands H – L
-August 2021
+July 2022
             PROFESSIONAL STAFF INDIVIDUAL
                EMPLOYMENT AGREEMENT
-                     AUGUST 2021
+                      JULY 2022
                                                 TABLE OF CONTENTS
  SECTION A:        PARTIES ....................................................................................................... 3
              A1    PARTIES ....................................................................................................................... 3
@@ -55,13 +55,13 @@ August 2021
              G10 INDEMNIFICATION ..................................................................................................... 17
              G11 ABANDONMENT OF EMPLOYMENT ................................................................................. 17
              G12 TERMINATION OF EMPLOYMENT ................................................................................... 17
-Professional Individual Employment Agreement – Bands H – L                                                                         August 2021
+Professional Individual Employment Agreement – Bands H – L                                                                           July 2022
  APPENDIX A: REDUNDANCY PROVISIONS ......................................................................... 18
              Employment Protection Provisions ......................................................................................... 18
-Professional Individual Employment Agreement – Bands H – L                                                                August 2021
-                 PROFESSIONAL STAFF INDIVIDUAL
-                    EMPLOYMENT AGREEMENT
-                          AUGUST 2021
+Professional Individual Employment Agreement – Bands H – L                                                                  July 2022
+                   PROFESSIONAL STAFF INDIVIDUAL
+                      EMPLOYMENT AGREEMENT
+                             JULY 2022
  SECTION A:        PARTIES
  A1       PARTIES
  A1.1     The parties to this agreement are the Vice Chancellor of The University of Auckland (the “Employer”),
@@ -96,7 +96,7 @@ Professional Individual Employment Agreement – Bands H – L                  
  B2.4     Where the employee is a contributor to the Government Superannuation Fund the University will
           continue to make contributions to the Fund. Members of the fund are bound by the provisions of that
           scheme.
-Professional Individual Employment Agreement – Bands H – L                                           August 2021
+Professional Individual Employment Agreement – Bands H – L                                             July 2022
  SECTION C:        HOURS OF WORK
  C1       HOURS OF WORK
  C1.1     37.5 hours shall constitute an ordinary full time week’s work to be worked between 7 am and 9 pm
@@ -133,7 +133,7 @@ Professional Individual Employment Agreement – Bands H – L                  
  C2.5     Time spent off duty during ordinary hours solely to obtain a nine-hour break shall be paid at ordinary
           time rates. Any absence after the ninth hour of such a break, if it occurs in ordinary time, shall be
           treated as a normal absence from duty.
-Professional Individual Employment Agreement – Bands H – L                                            August 2021
+Professional Individual Employment Agreement – Bands H – L                                             July 2022
  SECTION D:        REMUNERATION
  D1       JOB EVALUATION BAND REMUNERATION RANGES
  D1.1     The minimum and maximum for the remuneration range of each band will be reviewed by the employer
@@ -185,7 +185,7 @@ Professional Individual Employment Agreement – Bands H – L                  
            iii. Flexible – Flexible and agile in practices, process, and guidelines to recognise and reward
                 performance;
            iv. Contribution – Ensure performance is rewarded.
-Professional Individual Employment Agreement – Bands H – L                                             August 2021
+Professional Individual Employment Agreement – Bands H – L                                                  July 2022
  D3.3     Salary review principles
           Reviews shall:
             i.  Be aligned with the values and strategies of the University (including University Equity and
@@ -225,7 +225,7 @@ Professional Individual Employment Agreement – Bands H – L                  
           Where employees are called upon by the University to use Te Reo Maori in circumstances outside their
           job requirements, and where such duties are above and beyond the normal requirements of the
           employee, the University may recognise such contributions either financially or otherwise.
-Professional Individual Employment Agreement – Bands H – L                                            August 2021
+Professional Individual Employment Agreement – Bands H – L                                              July 2022
  SECTION E:          ALLOWANCES
  E1       SPECIAL DUTIES ALLOWANCE
           An employee required by the employer to undertake a period of special duties, or to temporarily act in
@@ -276,14 +276,14 @@ Professional Individual Employment Agreement – Bands H – L                  
  E4.1     Where an employee is required to travel to or from work outside regular hours and the employer
           considers the safety of the employee is at risk the employer may provide free transport.
  E4.2     For further information on transport and travel, please refer to the Travel Policy.
-Professional Individual Employment Agreement – Bands H – L                                             August 2021
+Professional Individual Employment Agreement – Bands H – L                                               July 2022
  E5       MOTOR VEHICLE MILEAGE RATE
  E5.1     Where the use of a private vehicle for official business has been approved, the employee shall be paid
           a motor vehicle allowance the equivalent of the standard Inland Revenue Department rates for work
           related kms.
           For further information on private motor vehicle use, please refer to the Travel Expenses and Booking
           Procedures.
-Professional Individual Employment Agreement – Bands H – L                                           August 2021
+Professional Individual Employment Agreement – Bands H – L                                            July 2022
  SECTION F:         HOLIDAYS AND LEAVE
  F1       PUBLIC HOLIDAYS
  F1.1     The following days shall be observed as public holidays:
@@ -294,6 +294,7 @@ Professional Individual Employment Agreement – Bands H – L                  
                 Good Friday
                 Easter Monday
                 Sovereign's Birthday
+                Matariki
                 Labour Day
                 Auckland Anniversary Day
                 Christmas Day
@@ -333,7 +334,7 @@ Professional Individual Employment Agreement – Bands H – L                  
           falling during annual or retiring leave after the employee has ceased work prior to leaving the
           university, unless the employee has worked at any time during the fortnight prior to the day on which
           the holiday is observed.
-Professional Individual Employment Agreement – Bands H – L                                             August 2021
+Professional Individual Employment Agreement – Bands H – L                                               July 2022
  F3.2     Leave without pay
           An employee shall not be entitled to payment for a public holiday falling during a period of leave
           without pay, unless the employee has worked at any time during the fortnight prior to the day the
@@ -387,7 +388,7 @@ Professional Individual Employment Agreement – Bands H – L                  
           considered.
           In cases where termination of employment is necessary, a notice period of 3 months will be
           applicable.
-Professional Individual Employment Agreement – Bands H – L                                          August 2021
+Professional Individual Employment Agreement – Bands H – L                                           July 2022
  F5       RETIREMENT
  F5.1     The Employee shall give to the University a minimum of three (3) months’ notice of retirement in
           writing.
@@ -437,7 +438,7 @@ Professional Individual Employment Agreement – Bands H – L                  
  F7.1     Parental Leave including University Paid Parental Leave is administered in accordance with the Parental
           Leave Act. Refer to the University’s Parental Leave Policy and Procedures.
  F7.2      An employee who is entitled to apply for 52 weeks Government Parental Leave may apply for up to 9
-Professional Individual Employment Agreement – Bands H – L                                        August 2021
+Professional Individual Employment Agreement – Bands H – L                                          July 2022
           (nine) weeks of such Parental Leave as University Paid Parental Leave, providing that the employee
           genuinely intends to return to duty after such Parental Leave, and providing further that if the
           employee subsequently does not return to duties, the employee agrees to refund salary and other
@@ -490,7 +491,7 @@ Professional Individual Employment Agreement – Bands H – L                  
  F11.3    If paid bereavement leave is not appropriate, then annual leave or leave without pay should be
           granted, but as a last resort.
  F11.4    If a bereavement occurs while an employee is absent on annual leave, sick leave on pay, long service
-Professional Individual Employment Agreement – Bands H – L                                               August 2021
+Professional Individual Employment Agreement – Bands H – L                                                 July 2022
           leave (except when this is taken after relinquishing of office) or other discretionary leave on pay, such
           leave may be interrupted and bereavement leave granted in terms of the preceding clauses. This
           provision will not apply if the employee is on leave without pay.
@@ -534,7 +535,7 @@ Professional Individual Employment Agreement – Bands H – L                  
           Subject to the approval of the Director/Dean, the employer may pay professional fees that are
           relevant to the employee’s work in the University, including fees for current practising certificates
           which are necessary to enable the employee to carry out their duties.
-Professional Individual Employment Agreement – Bands H – L                                              August 2021
+Professional Individual Employment Agreement – Bands H – L                                                July 2022
  SECTION G:          GENERAL PROVISIONS
  G1       HEALTH, SAFETY AND WELLBEING
  G1.1     The University believes that the health, safety and wellbeing of all members of the University
@@ -587,7 +588,7 @@ Professional Individual Employment Agreement – Bands H – L                  
           A.
  G3       RELEASE OF INFORMATION
           Employees shall ensure that they do not comment on behalf of the University on matters outside their
-Professional Individual Employment Agreement – Bands H – L                                               August 2021
+Professional Individual Employment Agreement – Bands H – L                                                 July 2022
           particular areas of expertise or responsibility unless they have first obtained the approval of the
           Registrar through the appropriate Dean, Academic Head/HoS or Manager
  G4       PAYMENT OF SALARIES
@@ -640,7 +641,7 @@ Professional Individual Employment Agreement – Bands H – L                  
  G6.7      If the problem cannot be resolved through discussion, then either the employee or the University can
            request assistance from the Ministry of Business, Innovation and Employment (MBIE) Mediation
            Services.
-Professional Individual Employment Agreement – Bands H – L                                           August 2021
+Professional Individual Employment Agreement – Bands H – L                                             July 2022
  G6.8     If the problem is not resolved by mediation, the employee may apply to the Employment Relations
           Authority for investigation and determination.
  G6.9     In certain circumstances the decision of the Employment Relations Authority may be appealed by the
@@ -694,7 +695,7 @@ Professional Individual Employment Agreement – Bands H – L                  
           and cognisant of the presumption of innocence. However no suspension shall be initiated or continued
           unless it is fair and reasonable for such a step to be taken or continued.
            Where there is a proposal to suspend an employee, that employee shall wherever practicable have
-Professional Individual Employment Agreement – Bands H – L                                         August 2021
+Professional Individual Employment Agreement – Bands H – L                                           July 2022
           the right to have access to all of the relevant information and an opportunity to be heard before the
           suspension occurs.
  G9       CONFIDENTIALITY
@@ -721,7 +722,7 @@ Professional Individual Employment Agreement – Bands H – L                  
  G12.2    Each employee upon termination shall on request be provided with a certificate of service within a
           reasonable period.
  G12.3    Where there is a potential redundancy situation, the provisions of Appendix A shall apply.
-Professional Individual Employment Agreement – Bands H – L                                             August 2021
+Professional Individual Employment Agreement – Bands H – L                                               July 2022
  APPENDIX A: REDUNDANCY PROVISIONS
  (a)   Where the employer carries out a review or restructure of any of the positions covered by this
        agreement, and such a review or restructure has the potential to affect the job security of any employee
@@ -775,7 +776,7 @@ Professional Individual Employment Agreement – Bands H – L                  
  (g)   The equalisation allowance will be paid as an on-going allowance for two years equivalent to the
        difference between the present salary and the new salary. The allowance will be abated by any salary
        increase for the new position during the two year period.
-Professional Individual Employment Agreement – Bands H – L                                              August 2021
+Professional Individual Employment Agreement – Bands H – L                                               July 2022
  (h)   Employees who are offered a position in the University which by mutual agreement is comparable to their
        existing position, noting that such agreement is not to be unreasonably withheld, and who decline
        appointment, will not be eligible for redundancy compensation.
@@ -827,4 +828,4 @@ Professional Individual Employment Agreement – Bands H – L                  
        and conditions, the employee(s) may, at their sole option, negotiate with the University over the
        terms and conditions surrounding termination of employment with the University and acceptance of
        employment with the new employer.
-Professional Individual Employment Agreement – Bands H – L                                               August 2021
+Professional Individual Employment Agreement – Bands H – L                                                  July 2022
