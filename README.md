@@ -29,9 +29,23 @@ Agreement (Bands H–L) across the four versions held in this repository.
   entitlements.
 
 ### Section B — Mutual Responsibilities & Superannuation
-- **B1.1**: The detailed list of specific good-employer obligations (safe conditions, equal
-  employment opportunities, etc.) was removed from the body of the clause, leaving a simplified
-  statement that the Employer shall act as a good employer.
+- **B1.1 ⚠️ Social justice concern**: The detailed list of specific good-employer obligations was
+  **entirely removed** and replaced with a single vague sentence: *"the Employer shall act as a
+  good employer."* The previous version explicitly required the employer to provide:
+  - Good and safe working conditions
+  - An equal employment opportunities programme
+  - Impartial selection of suitably qualified persons for appointment
+  - Opportunities for the enhancement of the abilities of individual employees
+  - **Recognition of the aims, aspirations, and employment requirements of ethnic and minority groups**
+  - **Recognition of the employment requirements of women**
+  - **Recognition of the employment requirements of persons with disabilities**
+
+  By collapsing these specific commitments into a single generic phrase, the December 2022 version
+  **removes the explicit, enforceable protections for women and people with disabilities** that had
+  been named in every prior version of this agreement. There is no longer any specific obligation
+  on the employer to recognise or accommodate the distinct employment needs of these groups.
+  This is a significant regression from a social justice perspective: named protections carry
+  legal and moral weight that a vague "good employer" standard does not replicate.
 
 ### Section D — Remuneration (restructured)
 - The Remuneration section was significantly reorganised:
