@@ -47,6 +47,12 @@ Agreement (Bands H–L) across the four versions held in this repository.
   This is a significant regression from a social justice perspective: named protections carry
   legal and moral weight that a vague "good employer" standard does not replicate.
 
+### Section C — Hours of Work
+- **C1 (rest period clause)**: The sentence *"All employees are to receive free tea, coffee, milk
+  and sugar for breaks."* was **removed**. The December 2022 version retains the entitlement to a
+  10-minute rest period in each four-hour period, but the explicit employer obligation to provide
+  free tea, coffee, milk and sugar during those breaks no longer appears in the agreement.
+
 ### Section D — Remuneration (restructured)
 - The Remuneration section was significantly reorganised:
   - **D1 (Evaluation of Positions)** and **D2 (Appeals Against the Job Evaluation Band Outcome)**
