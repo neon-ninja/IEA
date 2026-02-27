@@ -20,6 +20,10 @@ Agreement (Bands H–L) across the four versions held in this repository.
 
 **Major revision — restructure, new clauses and terminology changes**
 
+> **Note:** The University published an official [Summary of changes to Professional Staff IEAs](https://bpb-ap-se2.wpmucdn.com/blogs.auckland.ac.nz/dist/8/416/files/2022/12/Summary-of-changes-to-Professional-Staff-IEAs-.pdf)
+> for the December 2022 IEA. The items marked 📄 below are drawn from or confirmed by that
+> official summary. Items without that mark were identified by directly comparing the IEA documents.
+
 ### Section A — Parties
 - **A1.1**: University's legal name updated to **"Waipapa Taumata Rau | The University of
   Auckland"**.
@@ -66,14 +70,53 @@ Agreement (Bands H–L) across the four versions held in this repository.
   - **D5 (Te Reo Māori Duties)** — section renamed from "Te Reo Duties" to "Te Reo Māori Duties".
 
 ### Section F — Holidays and Leave
-- **F12 (Family Violence Leave)** added as a new section, providing entitlements in line with the
-  _Domestic Violence — Victims' Protection Act 2018_.
+- **F1 (Public Holidays — Matariki)** 📄: The official summary also lists Matariki as a change in
+  the December 2022 IEA. Matariki was first introduced in the July 2022 interim IEA (as
+  documented above), and was confirmed and retained in December 2022. The official summary
+  appears to compare December 2022 against an earlier base (likely August 2021), hence its
+  inclusion here.
+- **F4 (Sick Leave)** 📄: The official summary notes the sick leave clause was "updated to reflect
+  10 days minimum". Across all four IEA versions (2021, July 2022, December 2022) the clause
+  already reads "10 days Sick Leave on pay for each 12 months of service" — the statutory minimum
+  increased from 5 to 10 days under the _Holidays (Increasing Sick Leave) Amendment Act 2021_ and
+  was already reflected from the August 2021 version onward. The December 2022 update confirmed
+  and retained this entitlement.
+- **F16 (Family Violence Leave)** 📄 added as a new section (numbered F16 in the December 2022
+  IEA; renumbered F12 in December 2024), providing entitlements in line with the
+  _Domestic Violence — Victims' Protection Act 2018_. The clause affirms the University's
+  commitment to supporting staff experiencing family violence, details available support, and
+  includes links to the Family and Relationship Violence and Abuse Policy and the Campus Personal
+  Safety Planning Guide.
+- **F5 (Parental Leave, renumbered from F7)** 📄: Significantly updated. The new clause:
+  - Affirms the importance of **whānau** and links to the revised Parental Leave Policy and
+    Procedures (then open for consultation).
+  - **Removes the requirement** that an employee "genuinely intends to return to duty" in order to
+    access University Paid Parental Leave.
+  - **Removes the repayment obligation**: the prior version required employees who did not return
+    after parental leave to refund salary paid during that leave.
+  - Additional proposed benefits in the new policy include two weeks' paid leave for partners also
+    employed at the University, and the ability to take annual leave on full pay after returning to
+    work.
+- **F7 (Retirement Leave)** 📄: New eligibility restriction added — *"ELIGIBILITY FOR THE BENEFITS
+  IN THIS CLAUSE IS LIMITED TO EMPLOYEES WHO WERE EMPLOYED BY THE UNIVERSITY PRIOR TO
+  31 JANUARY 2023."* The University confirmed that the entitlements of current staff are not
+  affected and remain exactly the same.
+- **F8 (Long Service Leave)** 📄: Same eligibility restriction added as Retirement Leave — only
+  employees employed by the University prior to 31 January 2023 are eligible for this benefit.
 
 ### Section G — General Provisions
 - **G4**: Section renamed from "Debt Recovery" to "Deductions".
+- **G7.5.2 (Serious Misconduct definition)** 📄: Extended to explicitly include **"deliberate or
+  repeated breaches of University policies"** as an example of serious misconduct. The July 2022
+  definition ended at "behaviour which leads to significant loss of trust and confidence"; the
+  December 2022 version adds this additional ground.
 - **G9**: Section renamed from "Confidentiality" to "Confidentiality and Privacy".
 - **G11 (Abandonment of Employment)** and **G12 (Termination of Employment)** made explicit
   standalone sections.
+- **G12.4 (Notice in Lieu)** 📄 (new sub-clause): *"The Employer shall make a payment in lieu of
+  notice to the Employee, where the Employer determines it is not practicable for the Employee to
+  work out their notice period."* This provides an explicit mechanism for the employer to pay out
+  a departing employee's notice period rather than requiring them to work it out.
 
 ---
 
